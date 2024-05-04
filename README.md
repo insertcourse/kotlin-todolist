@@ -4,11 +4,11 @@
 
 ## 기능 명세
 
-1. Todo에는 Id, Title, Description, Created_At, Finshed_At, Target_Date가 존재해야합니다
-2. Todo를 모두 조회하는 api를 개발해야하며 완료되지 않은 TOdo ,Target_Date 가 가까운 순서대로 정렬해야합니다
-3. Todo를 생성하는 api가 있어야합니다
-4. Todo를 업데이트 할 수 있어야 하며 Created_At은 수정되어서는 안됩니다
-5. Todo의 완료 상태만을 수정하는 api가 있어야합니다
+1. Todo에는 Id, Title, Description, Created_At, Finshed_At, Target_Date가 존재해야합니다 - O
+2. Todo를 모두 조회하는 api를 개발해야하며 완료되지 않은 TOdo ,Target_Date 가 가까운 순서대로 정렬해야합니다 - O
+3. Todo를 생성하는 api가 있어야합니다 - O
+4. Todo를 업데이트 할 수 있어야 하며 Created_At은 수정되어서는 안됩니다 - O
+5. Todo의 완료 상태만을 수정하는 api가 있어야합니다 - O
 
 ## 추가 제약사항
 
